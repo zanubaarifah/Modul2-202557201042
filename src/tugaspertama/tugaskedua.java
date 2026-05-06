@@ -1,3 +1,5 @@
+package tugaspertama;
+
 
 import java.util.Scanner;
 
